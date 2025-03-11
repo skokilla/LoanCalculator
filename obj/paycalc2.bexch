@@ -1,0 +1,20 @@
+[GENERATED OBJECT FILE]
+b__paycalc2.o
+[PROJECT FILES]
+C:\Users\12589\OneDrive\Desktop\Lab1_1\lab1_1.gpr
+20240919165710 a0137470e7362b64e83462661ad2ebd0
+[BOUND OBJECT FILES]
+C:\Users\12589\OneDrive\Desktop\Lab1_1\obj\makereport.o
+C:\Users\12589\OneDrive\Desktop\Lab1_1\obj\paycalc2.o
+[GENERATED SOURCE FILES]
+b__paycalc2.ads
+b__paycalc2.adb
+b__paycalc2.ali
+[RESULTING OPTIONS]
+-LC:\Users\12589\OneDrive\Desktop\Lab1_1\obj\
+-LC:\Users\12589\OneDrive\Desktop\Lab1_1\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
